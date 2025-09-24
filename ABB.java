@@ -1,7 +1,3 @@
-// Clase de Árbol Binario de Búsqueda (ABB / BST en inglés)
-// Nombre: Camila Madelaine Dos Santos
-// Legajo: INF388-11130
-// DNI: 43256551
 
 class ABB {
 
